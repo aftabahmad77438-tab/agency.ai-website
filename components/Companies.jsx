@@ -5,7 +5,7 @@ import microsoft_logo from '../assets/microsoft_logo.png';
 import rakuten_logo from '../assets/rakuten_logo.png';
 import zoom_logo from '../assets/zoom_logo.png';
 import coinbase_logo from '../assets/coinbase_logo.png';
-import bgimage2 from '../assets/bgimage2.png';
+import bgImage2 from '../assets/bgImage2.png';
 import menu_icon from '../assets/menu_icon.svg';
 
 const Companies = ({mood}) => {
