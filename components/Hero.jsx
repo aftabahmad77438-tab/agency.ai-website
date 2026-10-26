@@ -1,7 +1,7 @@
 import React from 'react'
 import group_profile from '../assets/group_profile.png';
 import hero_img from '../assets/hero_img.png';
-import bgimage1 from '../assets/bgimage1.png';
+import bgImage1 from '../assets/bgImage1.png';
 import menu_icon from '../assets/menu_icon.svg';
 
 const Hero = ({mood}) => {
